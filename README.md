@@ -165,7 +165,7 @@ collection/
 1. Clone este repositório.
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/suematsu-09/api-postman-project
 ```
 
 2. Abra o Postman.
