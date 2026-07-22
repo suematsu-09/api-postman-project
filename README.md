@@ -155,7 +155,7 @@ Usuário removido com sucesso.
 A Collection do Postman está disponível na pasta:
 
 ```
-collection/
+postman/ New Collection.postman_collecion.json
 ```
 
 ---
