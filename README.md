@@ -88,7 +88,7 @@ Lista de usuários retornada com sucesso.
 
 ## ✅ GET /users/1 → 200 OK
 
-![GET USERS/1](docs/get-user-1-200.png)
+![GET USERS/1](docs/get-users-1-200.png)
 
 Retorno de um usuário específico.
 
@@ -96,7 +96,7 @@ Retorno de um usuário específico.
 
 ## ❌ GET /users/9999 → 404 Not Found
 
-![GET USERS 9999](docs/get-users-9999-404.png)
+![GET USERS 9999](docs/get-user-9999-404.png)
 
 Validação de consulta para um usuário inexistente.
 
